@@ -1,54 +1,52 @@
-![Header](./github-header-image.png)
+# Hi there, I'm Ewerton Arrais! 👋
 
-<div align="center">
-  
-  <h1>Hey there 👋! I'm Ewerton Arrais</h1>
-  <h4> A passionate explorer in Data Science and AI 🚀</h4>
+🌟 **Aspiring Data Scientist and AI Enthusiast**  
+🎓 **Student at Ibmec | Santander Top España Scholar 2024**  
+🌍 **Based in Rio de Janeiro, Brazil**  
 
-</div>
+---
 
-<img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/57/18/5d/57185d2176d7cbaebdb74c00ce1b9ebf.gif">
-<hr>
+## About Me
 
-<div style="display: inline_block" align="center">
-  <p align="left"> - 🤓 I love diving into logical and programming puzzles, especially the kind that make me go "Aha!"</p>
-  <p align="left"> - 🎓 Currently studying at Ibmec, expanding my knowledge in **Data Science** and **Artificial Intelligence**</p>
-  <p align="left"> - 🏆 Proud to have been awarded the **Santander Top España Scholarship 2024** and **Ibmec Education Stars**</p>
-  <p align="left"> - 🌱 Always learning: currently exploring **Machine Learning** and enhancing my **Front-End Development** skills</p>
-  <p align="left"> - ⚡ Fun fact: I'm fascinated by the intersection of data and storytelling, where numbers reveal impactful stories!</p>
-</div>
+I'm an enthusiastic Data Science and Artificial Intelligence student with a passion for solving problems through logical, mathematical, and programming challenges. I'm currently pursuing my bachelor's degree at Ibmec, where I was honored as one of the top students, earning the **Ibmec Education Stars award** and the **Santander Top España scholarship**. My journey is all about learning, creating impactful projects, and growing as a professional.
 
-<hr>
+🧠 **Lifelong Learner:** I love learning new technologies, exploring data, and uncovering insights that can lead to meaningful solutions.
 
-<h4>Languages and Tools</h4>
+🚀 **Developer:** I’ve worked on projects like [Passeio Carioca](#), a real-world website built using **HTML**, **CSS**, **JavaScript**, and **React**. I focus on creating responsive and user-friendly interfaces.
 
-<div style="display: inline_block" align="center"><br>
-  
-  <img align="center" alt="Ewerton-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ewerton-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Ewerton-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ewerton-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Ewerton-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ewerton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ewerton-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Ewerton-Excel" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/2048px-Microsoft_Excel_2013-2019_logo.svg.png">
-  
-</div>
+🤝 **Collaborator:** As a former **Calculus I teaching assistant**, I have experience in mentoring and collaborating with others to solve complex problems. I believe in the power of teamwork and sharing knowledge.
 
-<hr>
+---
 
-<div align="center">
+## What I'm Working On
 
-  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ewerside&show_icons=true&locale=en&theme=radical" alt="ewerside" /></p>
-  
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ewerside&show_icons=true&locale=en&layout=compact&theme=radical" alt="ewerside" /></p>
+- 📊 **Data Science Projects**: Analyzing data to find trends and build models.
+- 💻 **Front-End Development**: Expanding my skills with **JavaScript** and **React**.
+- 🌱 **Learning Machine Learning**: Preparing to dive deeper into machine learning techniques.
 
-</div>
+---
 
-<hr>
+## Skills
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ewerside/ewerside/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ewerside/ewerside/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ewerside/ewerside/output/github-contribution-grid-snake.svg">
-</picture>
+- **Programming Languages**: Python (Advanced), C++ (Advanced), JavaScript (Intermediate)
+- **Web Development**: HTML, CSS, React (Intermediate)
+- **Tools**: Excel (Advanced), Git, Jupyter
+- **Languages**: English (C1), Spanish (B2), German (B1)
+
+---
+
+## Get in Touch
+
+- 📫 **Email**: [ewertonparrais@gmail.com](mailto:ewertonparrais@gmail.com)
+- 💼 **LinkedIn**: [linkedin.com/in/ewerside](#) 
+- 🌟 **GitHub Projects**: Check out my repositories for my latest work!
+
+---
+
+## Fun Fact
+
+When I'm not coding or solving math problems, you might find me reading about new tech trends or exploring beautiful places in Rio de Janeiro. I'm always up for a challenge, especially if it involves logic and creativity! 🔍✨
+
+---
+
+Thanks for visiting my profile! Feel free to connect or drop a message if you want to collaborate or just chat about tech and data science. 😊
