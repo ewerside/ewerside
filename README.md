@@ -32,7 +32,7 @@ I'm an enthusiastic Data Science and Artificial Intelligence student with a pass
 
 ## Skills
 
-- **Programming Languages**: Python, C++, JavaScript
+- **Programming Languages**: Python, C++
 - **Web Development**: HTML, CSS, React, Django, Flask
 - **Databases**: PostgreSQL, MySQL, SQLite
 - **Data Analysis & Visualization**: NumPy, Pandas, Matplotlib, Seaborn, Plotly
