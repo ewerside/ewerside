@@ -12,7 +12,7 @@ I'm an enthusiastic Data Science and Artificial Intelligence student with a pass
 
 🧠 **Lifelong Learner:** I love exploring new technologies, digging into data, and uncovering insights that lead to meaningful solutions.
 
-🚀 **Developer:** I’ve worked on projects like [Passeio Carioca](#), a real-world website built with **HTML**, **CSS**, **JavaScript**, and **React**, focusing on responsive and user-friendly interfaces.
+🚀 **Developer:** I’ve worked on projects like [Passeio Carioca](https://eve.mange.li), a real-world website built with **HTML**, **CSS**, **JavaScript**, and **React**, focusing on responsive and user-friendly interfaces.
 
 🔧 **Backend & API Development:** I create **robust web applications** using **Django** and **Flask**, design **RESTful APIs**, and manage databases.
 
