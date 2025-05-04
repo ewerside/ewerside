@@ -58,7 +58,7 @@ I'm an enthusiastic Data Science and Artificial Intelligence student with a pass
 ## Get in Touch
 
 - 📫 **Email:** [ewertonparrais@gmail.com](mailto:ewertonparrais@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/ewerside](linkedin.com/in/ewerside)  
+- 💼 **LinkedIn:** [linkedin.com/in/ewerside](https://linkedin.com/in/ewerside)  
 - 🌟 **GitHub Projects:** Check out my repositories for my latest work!
 
 ---
