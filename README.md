@@ -18,7 +18,7 @@ I'm an enthusiastic Data Science and Artificial Intelligence student with a pass
 
 🕸️ **Automation & Web Scraping:** I build Python workflows with **Selenium** and related libraries to automate tasks and extract structured data from complex sites.
 
-🤖 **Generative AI Integration:** I leverage **OpenAI** and **Gemini** APIs to prototype intelligent features and enhance applications.
+🤖 **Generative AI Integration:** I leverage **OpenAI**, **Gemini**, **DeepSeek** and other LLMs' APIs to prototype intelligent features and enhance applications.
 
 📊 **Data Analysis & Visualization:** I explore and manipulate datasets with **NumPy, Pandas, Matplotlib, Seaborn, and Plotly**, and create **interactive dashboards in Power BI**.
 
@@ -28,16 +28,16 @@ I'm an enthusiastic Data Science and Artificial Intelligence student with a pass
 
 ## What I'm Working On
 
-- 📊 **Data Science Projects:** Analyzing data to find trends and build models.  
-- 💻 **Full-Stack Development:** Expanding my skills with **Django, Flask, and React**.  
-- 🤖 **AI-Powered Automation:** Combining web scraping pipelines with **OpenAI** and **Gemini** to build smart tools.
+- 📊 **Interactive Dashboards:** Building Power BI dashboards that blend Python visualizations, real-time web-scraped data and APIs to unlock insights.  
+- 🤖 **LLM-Driven Automation:** Experimenting with OpenAI, Gemini and Deepseek APIs to unite data analysis and automation.  
+- 💻 **Full-Stack & Extensions:** Creating websites, apps and Chrome extensions that put these scraping and automation ideas into action.
 
 ---
 
 ## Skills
 
 - **Programming Languages:** Python, C++  
-- **Web Development:** HTML, CSS, React, Django, Flask  
+- **Web Development:** HTML, CSS, Javascript, React, Django, Flask  
 - **Automation & Scraping:** Selenium, BeautifulSoup  
 - **Databases:** PostgreSQL, MySQL, SQLite  
 - **Generative AI APIs:** OpenAI, Gemini  
@@ -58,7 +58,7 @@ I'm an enthusiastic Data Science and Artificial Intelligence student with a pass
 ## Get in Touch
 
 - 📫 **Email:** [ewertonparrais@gmail.com](mailto:ewertonparrais@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/ewerside](#)  
+- 💼 **LinkedIn:** [linkedin.com/in/ewerside](linkedin.com/in/ewerside)  
 - 🌟 **GitHub Projects:** Check out my repositories for my latest work!
 
 ---
