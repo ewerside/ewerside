@@ -22,7 +22,7 @@ I'm a Data Science and Artificial Intelligence student with a passion for solvin
 
 🔧 **Backend & API Development:** I build web applications and **REST APIs** with **Django**, **Flask** and **FastAPI** on top of **PostgreSQL**.
 
-🕸️ **Data Extraction & Automation:** I write Python scrapers with **Selenium** and **BeautifulSoup**, pull structured data out of documents, and build **n8n** and **Make** workflows that connect CRMs like **HubSpot**, accounting tools and LLMs, with retries and error queues.
+🕸️ **Data Extraction & Automation:** I write Python scrapers with **Selenium** and **BeautifulSoup**, pull structured data out of documents, and build **n8n** and **Make** workflows that connect CRMs like **HubSpot** and **GoHighLevel**, accounting tools and LLMs, with retries and error queues.
 
 🚀 **Developer:** I've worked on [Passeio Carioca](https://eve.mange.li), a real-world website built with **HTML**, **CSS**, **JavaScript**, and **React**.
 
@@ -36,7 +36,7 @@ I'm a Data Science and Artificial Intelligence student with a passion for solvin
 
 - 👁️ **Multi-Screen Head-Coupled Perspective:** With my group at Ibmec, calibrating the layout of several screens with a smartphone so a 3D scene lines up across all of them.
 - 🤖 **Evaluating AI Agents:** Support agents with RAG and tools, scored against test sets before they ship, with every metric and failure in the report.
-- ⚙️ **Workflow Automation:** n8n and Make workflows for lead routing in HubSpot and invoice processing into QuickBooks. Demos are in my pinned repositories.
+- ⚙️ **Workflow Automation:** n8n and Make workflows for lead routing in HubSpot, an AI receptionist that books visits in GoHighLevel, and invoice processing into QuickBooks. Demos are in my repositories.
 
 ---
 
@@ -47,7 +47,7 @@ I'm a Data Science and Artificial Intelligence student with a passion for solvin
 - **Computer Vision:** OpenCV, MediaPipe  
 - **Data Analysis & Visualization:** NumPy, Pandas, Matplotlib, Seaborn, Plotly, Power BI  
 - **Web Development:** HTML, CSS, JavaScript, React, Django, Flask, FastAPI  
-- **Automation & Integrations:** n8n, Make, HubSpot API, QuickBooks Online API, Selenium, BeautifulSoup  
+- **Automation & Integrations:** n8n, Make, HubSpot API, GoHighLevel API, QuickBooks Online API, Selenium, BeautifulSoup  
 - **Databases:** PostgreSQL, Supabase, MySQL, SQLite  
 - **Tools:** Git, Jupyter, Excel  
 
