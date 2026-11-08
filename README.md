@@ -62,19 +62,10 @@ I'm a Data Science and Artificial Intelligence student with a passion for solvin
 
 ---
 
-## Get in Touch
-
-- 📫 **Email:** [ewertonparrais@gmail.com](mailto:ewertonparrais@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/ewerside](https://linkedin.com/in/ewerside)  
-- 🌟 **GitHub Projects:** Check out my repositories for my latest work!
-
----
-
 ## Fun Fact
 
-I love traveling and capturing **street photography** of everyday moments with my phone. 📸✈️  
-- [📸](https://www.instagram.com/ewerside) **Instagram:** A hidden bonus link if you can find it. 😉  
+I love traveling and capturing **street photography** of everyday moments with my phone. 📸✈️
 
 ---
 
-Thanks for visiting my profile! Feel free to connect or drop a message if you want to collaborate or just chat about tech and data science. 😊
+Thanks for visiting my profile! Feel free to explore my repositories. 😊
